@@ -1,0 +1,16 @@
+{
+  "name": "hello-hedera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cong tan <congtan@wakumo.vn>",
+  "license": "ISC",
+  "repository": "git@github.com:dangcongtanpnt94/hello-hedera.git",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.18.1",
+    "dotenv": "^16.0.2"
+  }
+}
