@@ -1,4 +1,9 @@
 
+# Setup
+```
+yarn install
+```
+
 # Run
 
 ```
